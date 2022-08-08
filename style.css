@@ -67,6 +67,9 @@ html, body{
 .fa-code {
   color: #e54d26;
 }
+.card-title1 {
+  font-style: italic;
+}
 .fa-bold {
   color: #563d7c;
 }
